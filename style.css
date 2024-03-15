@@ -1,0 +1,13 @@
+.header{    
+    border: 6px solid rgb(176, 137, 238);
+    border-radius: 3px;
+    background: #f1cffc;
+    padding: 50px;
+}
+.heroimg{
+    height: 100px;
+    margin-top: 50px;
+    background: #ebf0b0;
+
+
+}
